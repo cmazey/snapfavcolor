@@ -1,0 +1,57 @@
+# Friends Response
+
+- Colton Mazey: red
+- Bradley Sellers: light blue/light pink
+- Kiara Pfister: blue
+- Alex Fratini: blue
+- Eli Pfister: green
+- Tray B: red
+- James Cox: green
+- Scotty: N/A
+- Chance R.: green
+- Rusto: yellow
+- Nolan: red
+- Anthony Fratini: red
+- Rashee MclaurinJr: red
+- Max Cremona: green
+- Angel Hillsman: black
+- john: blue/purple
+- Vinny Maiorana: wtf was his response::N/A
+- Rebecca: pink
+- Owen K.: green
+- Jostahn Kuehner: green
+- Wondu Evans: red
+- Seth Sebold: orange
+- ella pfister: blue
+- Jason Peacock: N/A (abandon account probably)
+- Owen Curry: black
+- Ashton Mazey: N/A (brother)
+- Danny Barker: blue
+- Luke Dotson: purple
+- Sam G: N/A
+- Bennett Bourn: N/A
+- Jarrel Miller: N/A
+- ben gorman: blue
+- Jack Chalmers: N/A
+- Aly May: N/A
+- Londyn Taylor: blue
+- Molly: N/A (Liam)
+- Katy Pence: N/A
+- Shawn: N/A
+- noah hash: N/A (OPENED)
+- Luke Urban: N/A
+- Ish Cal: N/A
+- Brendan Dickens: N/A (OPENED)
+- Daniel Monahan: orange
+- Michael D: maroon tinted red
+- Daniel Beck: navy blue/purple
+- Andy: orange
+- RJ: yellow
+- Aiden Newkirk: N/A
+- Tyler Valentino: yellow
+- Dante Scott: blue
+- Xannie: N/A (OPENED)
+- Braeden Barker: N/A (BF)
+- Brandon Reed: black/purple
+- Sean: N/A
+- 
