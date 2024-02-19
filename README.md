@@ -2,6 +2,6 @@
 
 - Total Friends on snap: 58
 - Total Friends (boys only): 47
-- Total Friends (girls only): 8
+- Total Friends (girls only): 10
 
-Data as from: 2/19/2024
+*Data as from 2/19/2024*
