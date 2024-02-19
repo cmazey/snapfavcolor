@@ -47,11 +47,11 @@
 - Daniel Beck: navy blue/purple
 - Andy: orange
 - RJ: yellow
-- Aiden Newkirk: N/A
+- Aiden Newkirk: blue (still thinking about it)
 - Tyler Valentino: yellow
 - Dante Scott: blue
 - Xannie: N/A (OPENED)
-- Braeden Barker: N/A (BF)
+- Braeden Barker: blue (BF)
 - Brandon Reed: black/purple
 - Sean: N/A
 - 
