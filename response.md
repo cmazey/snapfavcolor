@@ -52,5 +52,5 @@
 - Xannie: N/A
 - ~~Braeden Barker: blue (BF)~~
 - ~~Brandon Reed: black/purple~~
-- Sean: N/A
+- Sean: purple
 - ~~Leo Mazey: Green~~
