@@ -16,7 +16,6 @@
 - ~~Max Cremona: green~~
 - ~~Angel Hillsman: black~~
 - ~~ohn: blue/purple~~
-- ~~Vinny Maiorana: wtf was his response::N/A~~
 - ~~Rebecca: pink~~
 - ~~Owen K.: green~~
 - ~~Jostahn Kuehner: green~~
