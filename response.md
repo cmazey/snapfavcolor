@@ -1,57 +1,57 @@
 # Friends Response
 
-- Colton Mazey: red
-- Bradley Sellers: light blue/light pink
-- Kiara Pfister: blue
-- Alex Fratini: blue
-- Eli Pfister: green
-- Tray B: red
-- James Cox: green
+- ~~Colton Mazey: red~~
+- ~~Bradley Sellers: light blue/light pink~~
+- ~~Kiara Pfister: blue~~
+- ~~Alex Fratini: blue~~
+- ~~Eli Pfister: green~~
+- ~~Tray B: red~~
+- ~~James Cox: green~~
 - Scotty: N/A (ignored but will ask again)
-- Chance R.: green
-- Rusto: yellow
-- Nolan: red
-- Anthony Fratini: red
-- Rashee MclaurinJr: red
-- Max Cremona: green
-- Angel Hillsman: black
-- John: blue/purple
-- Vinny Maiorana: wtf was his response::N/A
-- Rebecca: pink
-- Owen K.: green
-- Jostahn Kuehner: green
-- Wondu Evans: red
-- Seth Sebold: orange
-- Ella Pfister: blue
-- Jason Peacock: N/A (abandon account probably)
-- Owen Curry: black
+- ~~Chance R.: green~~
+- ~~Rusto: yellow~~
+- ~~Nolan: red~~
+- ~~Anthony Fratini: red~~
+- ~~Rashee MclaurinJr: red~~
+- ~~Max Cremona: green~~
+- ~~Angel Hillsman: black~~
+- ~~ohn: blue/purple~~
+- ~~Vinny Maiorana: wtf was his response::N/A~~
+- ~~Rebecca: pink~~
+- ~~Owen K.: green~~
+- ~~Jostahn Kuehner: green~~
+- ~~Wondu Evans: red~~
+- ~~Seth Sebold: orange~~
+- ~~Ella Pfister: blue~~
+- ~~Jason Peacock: N/A (abandon account probably)~~
+- ~~Owen Curry: black~~
 - Ashton Mazey: N/A (brother)
-- Danny Barker: blue
-- Luke Dotson: purple
+- ~~Danny Barker: blue~~
+- ~~Luke Dotson: purple~~
 - Sam G: N/A
 - Bennett Bourn: N/A
 - Jarrel Miller: N/A
-- Ben Gorman: blue
+- ~~Ben Gorman: blue~~
 - Jack Chalmers: N/A
 - Aly May: N/A
-- Londyn Taylor: blue
+- ~~Londyn Taylor: blue~~
 - Molly: N/A (Liam)
 - Katy Pence: N/A
 - Shawn: N/A
-- Noah hash: N/A (OPENED)
+- ~~Noah hash: N/A ~~
 - Luke Urban: N/A
 - Ish Cal: N/A
-- Brendan Dickens: N/A (OPENED)
-- Daniel Monahan: orange
-- Michael D: maroon tinted red
-- Daniel Beck: navy blue/purple
-- Andy: orange
-- RJ: yellow
-- Aiden Newkirk: blue (still thinking about it)
-- Tyler Valentino: yellow
-- Dante Scott: blue
-- Xannie: N/A (OPENED)
-- Braeden Barker: blue (BF)
-- Brandon Reed: black/purple
+- ~~Brendan Dickens: N/A ~~
+- ~~Daniel Monahan: orange~~
+- ~~Michael D: maroon tinted red~~
+- ~~Daniel Beck: navy blue/purple~~
+- ~~Andy: orange~~
+- ~~RJ: yellow~~
+- ~~Aiden Newkirk: blue~~ (still thinking about it)
+- ~~Tyler Valentino: yellow~~
+- ~~Dante Scott: blue~~
+- Xannie: N/A
+- ~~Braeden Barker: blue (BF)~~
+- ~~Brandon Reed: black/purple~~
 - Sean: N/A
-- 
+- Leo Mazey: N/A
