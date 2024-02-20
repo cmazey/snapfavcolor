@@ -23,7 +23,7 @@ snapFavColor.AddRow("[white]Rashee MclaurinJr[/]", "[white]John Mazey[/]", "[whi
 snapFavColor.AddRow("[white]Wondu Evans[/]", "[white]Bradley Sellers[/]", "[white]Eli Pfister[/]", "", "[white]John Mazey[/]", "", "[white][/]", "[white][/]"); // Row 4
 snapFavColor.AddRow("[white]Nolan Meyer[/]", "[white]Ella Pfister[/]", "[white]Jostahn Kuehner[/]"); // Row 5
 snapFavColor.AddRow("[white]Tray Buckley[/]", "[white]Danny Barker[/]", "[white]Owen Konjura[/]"); // Row 6
-snapFavColor.AddRow("[white]Michael D.[/]", "[white]Aiden Newkirk[/]", ""); // Row 7
+snapFavColor.AddRow("[white]Michael D.[/]", "[white]Aiden Newkirk[/]", "[white]Leo Mazey[/]"); // Row 7
 snapFavColor.AddRow("", "[white]Londyn Taylor[/]"); // Row 8
 snapFavColor.AddRow("", "[white]Ben Gorman[/]"); // Row 9
 snapFavColor.AddRow("", "[white]Dante Scott[/]"); // Row 10
@@ -32,3 +32,5 @@ snapFavColor.AddRow("", "[white]Braeden Barker[/]"); // Row 12
 
 // Render the table to the console
 AnsiConsole.Write(snapFavColor);
+
+Console.ReadKey();

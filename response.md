@@ -54,4 +54,4 @@
 - ~~Braeden Barker: blue (BF)~~
 - ~~Brandon Reed: black/purple~~
 - Sean: N/A
-- Leo Mazey: N/A
+- ~~Leo Mazey: Green~~
