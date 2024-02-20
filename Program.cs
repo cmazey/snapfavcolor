@@ -20,7 +20,7 @@ snapFavColor.AddColumn("[black]Black[/]"); // Column 8: Black
 snapFavColor.AddRow("[white]Colton Mazey[/]", "[white]Kiara Pfister[/]", "[white]Max Cremona[/]", "[white]RJ Icke[/]", "[white]Brandon Reed[/]", "[white]Seth Sebold[/]", "[white]Rebecca Sinclare[/]", "[white]Owen Curry[/]"); // Row 1
 snapFavColor.AddRow("[white]Anthony Fratini[/]", "Alex Fratini", "[white]Chance Robinson[/]", "[white]Rusto[/]", "[white]Luke Dotson[/]", "[white]Daniel Monahan[/]", "[white]Bradley Sellers[/]", "[white]Brandon Reed[/]"); // Row 2
 snapFavColor.AddRow("[white]Rashee MclaurinJr[/]", "[white]John Mazey[/]", "[white]James Cox[/]", "[white]Tyler Valentino[/]", "[white]Daniel Beck[/]", "[white]Anderson Scott[/]", "", "[white]Angel Hillsman[/]"); // Row 3
-snapFavColor.AddRow("[white]Wondu Evans[/]", "[white]Bradley Sellers[/]", "[white]Eli Pfister[/]", "", "[white]John Mazey[/]", "", "[white][/]", "[white][/]"); // Row 4
+snapFavColor.AddRow("[white]Wondu Evans[/]", "[white]Bradley Sellers[/]", "[white]Eli Pfister[/]", "", "[white]John Mazey[/]", "", "", "[white]Jack Chalmers[/]"); // Row 4
 snapFavColor.AddRow("[white]Nolan Meyer[/]", "[white]Ella Pfister[/]", "[white]Jostahn Kuehner[/]"); // Row 5
 snapFavColor.AddRow("[white]Tray Buckley[/]", "[white]Danny Barker[/]", "[white]Owen Konjura[/]"); // Row 6
 snapFavColor.AddRow("[white]Michael D.[/]", "[white]Aiden Newkirk[/]", "[white]Leo Mazey[/]"); // Row 7
