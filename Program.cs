@@ -105,8 +105,8 @@ AnsiConsole.Write(new BarChart()
     .Width(60)
     .Label("[yellow bold underline]Friends on Snap[/]")
     .CenterLabel()
-    .AddItem("Total Friends", 57, Color.Yellow)
+    .AddItem("Total Friends", 55, Color.Yellow)
     .AddItem("Boys", 47, Color.Blue1)
-    .AddItem("Girls", 10, Color.Pink1));
+    .AddItem("Girls", 8, Color.Pink1));
 
 Console.ReadKey();
