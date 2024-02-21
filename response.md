@@ -7,7 +7,7 @@
 - ~~Eli Pfister: green~~
 - ~~Tray B: red~~
 - ~~James Cox: green~~
-- Scotty: N/A (ignored but will ask again)
+- ~~Scotty: blue~~
 - ~~Chance R.: green~~
 - ~~Rusto: yellow~~
 - ~~Nolan: red~~

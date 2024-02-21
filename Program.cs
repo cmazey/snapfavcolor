@@ -46,9 +46,11 @@ await AnsiConsole.Live(snapFavColor)
     snapFavColor.AddRow("[white]Colton Mazey[/]", "[white]Kiara Pfister[/]", "[white]Max Cremona[/]", "[white]RJ Icke[/]", "[white]Brandon Reed[/]", "[white]Seth Sebold[/]", "[white]Rebecca Sinclare[/]", "[white]Owen Curry[/]"); // Row 1
     ctx.Refresh();
     await Task.Delay(100);
+    
     snapFavColor.AddRow("[white]Anthony Fratini[/]", "Alex Fratini", "[white]Chance Robinson[/]", "[white]Rusto[/]", "[white]Luke Dotson[/]", "[white]Daniel Monahan[/]", "[white]Bradley Sellers[/]", "[white]Brandon Reed[/]"); // Row 2
     ctx.Refresh();
     await Task.Delay(100);
+
     snapFavColor.AddRow("[white]Rashee MclaurinJr[/]", "[white]John Mazey[/]", "[white]James Cox[/]", "[white]Tyler Valentino[/]", "[white]Daniel Beck[/]", "[white]Anderson Scott[/]", "", "[white]Angel Hillsman[/]"); // Row 3
     ctx.Refresh();
     await Task.Delay(100);
@@ -87,12 +89,16 @@ await AnsiConsole.Live(snapFavColor)
 
     snapFavColor.AddRow("", "[white]Braeden Barker[/]"); // Row 12
     ctx.Refresh();
-    await Task.Delay(1000);
+    await Task.Delay(100);
+
+    snapFavColor.AddRow("", "[white]Scotty N.[/]"); // Row 13
+    ctx.Refresh();
+    await Task.Delay(100);
 
     // Cusom Border
     snapFavColor.Border = TableBorder.MinimalHeavyHead;
     ctx.Refresh();
-    await Task.Delay(100);
+    await Task.Delay(1000);
 });
 
 AnsiConsole.Write(new BarChart()
