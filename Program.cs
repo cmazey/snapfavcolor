@@ -59,7 +59,7 @@ await AnsiConsole.Live(snapFavColor)
     ctx.Refresh();
     await Task.Delay(100);
 
-    snapFavColor.AddRow("[white]Nolan Meyer[/]", "[white]Ella Pfister[/]", "[white]Jostahn Kuehner[/]"); // Row 5
+    snapFavColor.AddRow("[white]Nolan Meyer[/]", "[white]Ella Pfister[/]", "[white]Jostahn Kuehner[/]", "", "Sean D."); // Row 5
     ctx.Refresh();
     await Task.Delay(100);
 
