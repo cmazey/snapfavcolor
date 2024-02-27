@@ -54,3 +54,49 @@
 - ~~Brandon Reed: black/purple~~
 - ~~Sean: purple~~
 - ~~Leo Mazey: Green~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SNAP SENT 54/55
+Personal Project Ends 3/6/2024
