@@ -47,7 +47,7 @@ await AnsiConsole.Live(snapFavColor)
     ctx.Refresh();
     await Task.Delay(100);
 
-    snapFavColor.AddRow("[white]Anthony Fratini[/]", "Alex Fratini", "[white]Chance Robinson[/]", "[white]Rusto[/]", "[white]Luke Dotson[/]", "[white]Daniel Monahan[/]", "[white]Bradley Sellers[/]", "[white]Brandon Reed[/]"); // Row 2
+    snapFavColor.AddRow("[white]Anthony Fratini[/]", "[white]Alex Fratini[/]", "[white]Chance Robinson[/]", "[white]Rusto[/]", "[white]Luke Dotson[/]", "[white]Daniel Monahan[/]", "[white]Bradley Sellers[/]", "[white]Brandon Reed[/]"); // Row 2
     ctx.Refresh();
     await Task.Delay(100);
 
