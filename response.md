@@ -54,6 +54,8 @@
 - ~~Brandon Reed: black/purple~~
 - ~~Sean: purple~~
 - ~~Leo Mazey: Green~~
+- ~~Helen Gerrity: sage green~~
+- ~~Nick Zarlinga: yellow~~
 
 
 
@@ -98,5 +100,5 @@
 
 
 
-SNAP SENT 54/55
-Personal Project Ends 3/6/2024
+SNAP MESSAGE SENT 56/56
+~~Personal Project Ends 3/6/2024~~

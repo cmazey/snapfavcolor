@@ -55,7 +55,7 @@ await AnsiConsole.Live(snapFavColor)
     ctx.Refresh();
     await Task.Delay(100);
 
-    snapFavColor.AddRow("[white]Wondu Evans[/]", "[white]Bradley Sellers[/]", "[white]Eli Pfister[/]", "", "[white]John Mazey[/]", "", "", "[white]Jack Chalmers[/]"); // Row 4
+    snapFavColor.AddRow("[white]Wondu Evans[/]", "[white]Bradley Sellers[/]", "[white]Eli Pfister[/]", "[white]Nick Zarlinga[/]", "[white]John Mazey[/]", "", "", "[white]Jack Chalmers[/]"); // Row 4
     ctx.Refresh();
     await Task.Delay(100);
 
@@ -67,11 +67,11 @@ await AnsiConsole.Live(snapFavColor)
     ctx.Refresh();
     await Task.Delay(100);
 
-    snapFavColor.AddRow("[white]Michael D.[/]", "[white]Aiden Newkirk[/]", "[white]Leo Mazey[/]"); // Row 7
+    snapFavColor.AddRow("[rgb(195,33,72)]Michael D.[/]", "[white]Aiden Newkirk[/]", "[white]Leo Mazey[/]"); // Row 7
     ctx.Refresh();
     await Task.Delay(100);
 
-    snapFavColor.AddRow("", "[white]Londyn Taylor[/]"); // Row 8
+    snapFavColor.AddRow("", "[white]Londyn Taylor[/]", "[rgb(178,172,136)]Helen Gerrity[/]"); // Row 8
     ctx.Refresh();
     await Task.Delay(100);
 
@@ -105,8 +105,8 @@ AnsiConsole.Write(new BarChart()
     .Width(60)
     .Label("[yellow bold underline]Friends on Snap[/]")
     .CenterLabel()
-    .AddItem("Total Friends", 55, Color.Yellow)
-    .AddItem("Boys", 47, Color.Blue1)
+    .AddItem("Total Friends", 56, Color.Yellow)
+    .AddItem("Boys", 48, Color.Blue1)
     .AddItem("Girls", 8, Color.Pink1));
 
 Console.ReadKey();
