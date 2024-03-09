@@ -1,7 +1,3 @@
 # snapfavcolor
 
-- Total Friends on snap: 55
-- Total Friends (boys only): 47
-- Total Friends (girls only): 8
-
-*Data as from 2/19/2024*
+A fun little project that involves asking my Snapchat friends the following question: "What's your favorite color?", and sorting them down using [Spectre Console](https://spectreconsole.net/) tables, and live displays.
